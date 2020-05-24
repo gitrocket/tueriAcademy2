@@ -1,0 +1,30 @@
+
+.body {
+    position: relative;
+}
+
+/* body * {
+    outline: 1px solid pink;
+} */
+
+.jumbotron {
+    margin-left: 20px;
+    background-color: white !important;
+    background-size: cover;
+}
+
+.navbar {
+    padding-left: 20px;
+    background-color: #B3C3B9;
+}
+
+h1, p {
+    color: #686761;
+}
+
+#home, #services, #contact {
+    padding-top: 100px;
+    background-color: white;
+    height: 1000px;
+
+}
